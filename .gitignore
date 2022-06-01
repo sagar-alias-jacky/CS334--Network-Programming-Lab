@@ -1,0 +1,9 @@
+*
+*/
+!*.c
+!.gitignore
+!README.md
+!*.jpg
+!lab_cycle
+!programs
+
