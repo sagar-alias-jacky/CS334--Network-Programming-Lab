@@ -1,5 +1,8 @@
-*
-*/
+# *
+# */
+*.pdf
+*.doc
+*.docx
 !*.c
 !.gitignore
 !README.md
